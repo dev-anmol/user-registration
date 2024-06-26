@@ -1,0 +1,14 @@
+what we are doing in this project?
+
+1. How to use json server in Angular?
+2. CRUD Operation using JSON server- asked in machine test and coding round
+
+Installation-
+
+npm install -g json-server
+
+Create db.json file - in this file you can store your data
+
+finally run server by below command-
+
+json-server --watch db.json

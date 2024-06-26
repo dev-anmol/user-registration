@@ -1,0 +1,93 @@
+{
+    "userList": [
+        {
+            "userId": 1,
+            "userName": "raj",
+            "fName": "Raj",
+            "LName": "Kumar",
+            "city": "Pune",
+            "state": "MAH",
+            "zipCode": "342243"
+        },
+        {
+            "userId": 2,
+            "userName": "rahul",
+            "fName": "Rahul",
+            "LName": "Sharma",
+            "city": "leh",
+            "state": "JAMMU",
+            "zipCode": "122343"
+        },
+        {
+            "userId": 3,
+            "userName": "shy",
+            "fName": "Shyam",
+            "LName": "Thakur",
+            "city": "shimla",
+            "state": "HP",
+            "zipCode": "672343"
+        },
+        {
+            "userId": 4,
+            "userName": "rhgv",
+            "fName": "raghav",
+            "LName": "Kumar",
+            "city": "mau",
+            "state": "UP",
+            "zipCode": "902343"
+        },
+        {
+            "userId": 5,
+            "userName": "manu",
+            "fName": "Mohan",
+            "LName": "Sharma",
+            "city": "chennai",
+            "state": "HEY",
+            "zipCode": "422343"
+        },
+        {
+            "userId": 6,
+            "userName": "sach",
+            "fName": "Sachin",
+            "LName": "Mehra",
+            "city": "kangra",
+            "state": "HP",
+            "zipCode": "112343"
+        }
+    ],
+    "cityList": [
+        "Pune",
+        "Mumbai",
+        "Thana"
+    ],
+    "stateList": [
+        "MAH",
+        "GOA",
+        "PUN"
+    ],
+    "createUser": {
+        "data": {
+            "userId": 123,
+            "username": "abc",
+            "fName": "ABC",
+            "LName": "ABC",
+            "city": "",
+            "state": "",
+            "zipCode": "342343"
+        }
+    },
+    "updateUser": {
+        "result": true,
+        "data": {
+            "userId": 121,
+            "userName": "ABC"
+        }
+    },
+    "deleteUser": {
+        "result": true,
+        "data": {
+            "userId": 121,
+            "userName": "ABC"
+        }
+    }
+}
